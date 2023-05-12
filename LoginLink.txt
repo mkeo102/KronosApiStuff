@@ -3,3 +3,4 @@ https://pastebin.com/raw/ViZUjBLg
 https://pastebin.com/uhCTfXYY
 https://gitlab.com/kronosclient1/KronosClientFileStorage/-/raw/main/libs.zip?inline=false
 https://gitlab.com/kronosclient1/KronosClientFileStorage/-/raw/main/natives.zip?inline=false
+https://github.com/mkeo102/KronosApiStuff/releases/download/Mkeo102/Kronos.jar
